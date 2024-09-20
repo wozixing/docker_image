@@ -1,2 +1,2 @@
 #基因组注释：构建tetools镜像
-tetools:1.89.1
+dfam/tetools:1.89.1
