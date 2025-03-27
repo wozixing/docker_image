@@ -1,6 +1,8 @@
 #基因组注释：构建tetools镜像
 #dfam/tetools:1.90
-teambraker/braker3:latest
+#teambraker/braker3:latest
+trinityrnaseq/trinityrnaseq:latest
+
 
 #quay.io/biocontainers/edta:2.2.0
 #quay.io/biocontainers/edta@sha256:793cbb17bc0569e01caa0c83ad8d1756a394c2ee47b3f512ad4077bc3e422579
