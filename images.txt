@@ -2,7 +2,8 @@
 #dfam/tetools:1.90
 #teambraker/braker3:latest
 
-trinityrnaseq/trinityrnaseq
+#trinityrnaseq/trinityrnaseq
+brianjohnhaas/evidencemodeler
 
 
 #quay.io/biocontainers/edta:2.2.0
